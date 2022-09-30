@@ -1,0 +1,7 @@
+numpy
+keras
+glob2
+opencv-python
+sklearn
+scikit-image
+matplotlib
